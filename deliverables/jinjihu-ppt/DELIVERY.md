@@ -11,3 +11,5 @@
 - 用户已同意保留 content-revision/P3-P5-text-draft-v1.md 的内容方向；后续据此统一更新。
 - 全套PPT可见页面不出现 [07]、[S07] 等引用编号。来源留作内部备查，不占商务演示版面。
 - 第七页突出机群规模、技术、设计、运营实力，以团队实际案例作证，采用 content-revision/P7-capability-text-v1.md 文案。
+
+- 用户已同意保留第七页能力文案。第八页以今世缘、洋河酒业的深度接洽证明招商基础；汽车及新能源、游戏电竞、金融为拟重点拓展行业，外部案例不写成我司客户。详见 content-revision/P8-brand-development-text-v1.md。
